@@ -7,8 +7,8 @@
       Let's create something amazing toghether!
 
 - 💬 You can contact me at:
-      [ mohamadhoseinasra@gmail.com ] ( mohamadhoseinasra@gmail.com )
-        or connect with me on [Telegram] ( https://t.me/arsamlu )
+      [mohamadhoseinasra@gmail.com](mohamadhoseinasra@gmail.com)
+        or connect with me on [Telegram](https://t.me/arsamlu)
 
 - 💎 Let's create something amazing togheter!
   
