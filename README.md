@@ -1,7 +1,7 @@
 # AboutMe
--⚡ Hello!
-     I'am a high school student based in Mashhad, Iran, with a passion for game development.
-      I'am currently learning various aspeects of Unity and eager to collaborate with a team on exciting game projects.
+- ⚡ Hello!
+      I'am a high school student based in Mashhad, Iran, with a passion for game development.
+       I'am currently learning various aspeects of Unity and eager to collaborate with a team on exciting game projects.
 
 - 🌱 Fell free to reach out if you are interested in working toghether or if you have any questions. 
       Let's create something amazing toghether!
